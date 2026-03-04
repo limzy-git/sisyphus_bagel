@@ -19,3 +19,11 @@ This is a repo for my side projects as I learn how to code in Python. I hope thi
       - Included letters in get_bagel when Hard difficulty is selected  
     .  
     With the difficulty settings included, I can deem the Sourdough Project as completed.
+
+### 2. ♦️♣️♥️♠️ Blackjack ♠️♥️♣️♦️
+### 04/03/2026 ###
+  For some reason, I though blackjack will be the natural progression for my next project. Building a well-known game is quite an exciting challenge as well as most people have an idea of how blackjack goes.
+    - Uploaded the bare basics of blackjack   
+    - Current code only flows until the first dealing of cards    
+    - Included a check function to see if there's any blackjack (21 points) after the first dealing    
+  I am still undecided how visible the cards should be to the player (currently, all hands are visible) as there is the standard version and the more Asian, Chinese New Year version where you can only see your cards.
